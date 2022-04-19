@@ -1,5 +1,5 @@
 import "dotenv/config";
-import settings from "./settings.json"
+import settings from "../../settings.json"
 
 const env = process.env;
 
