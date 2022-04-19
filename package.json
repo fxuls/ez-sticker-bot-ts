@@ -8,6 +8,6 @@
     "grammy": "^1.8.0"
   },
   "scripts": {
-    "start": "npx tsc && node bot.js"
+    "start": "npx tsc && node src/bot.js"
   }
 }
